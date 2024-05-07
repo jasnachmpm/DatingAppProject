@@ -2,7 +2,7 @@
 
 namespace API;
 
-public class AppUSer
+public class AppUser
 {
     [Key]
     public int id { get; set; }
